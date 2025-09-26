@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Apuestas Deportivas",
+  "description": "Una aplicación para rastrear y gestionar tus apuestas deportivas, visualizar estadísticas y analizar tu rendimiento.",
+  "requestFramePermissions": []
+}
